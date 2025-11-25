@@ -12,7 +12,7 @@ Proyek menggunakan pola **MVC (Model-View-Controller)**:
 
 ### Struktur Direktori
 ```
-src/main/java/com/mycompany/pert3_4ia01_51422270/
+src/main/java/com/mycompany/pert3_4ia01_51422399/
 ├── model/
 │   ├── ModelMahasiswa.java      # Model data mahasiswa
 │   └── MahasiswaDAO.java        # Data Access Object (CRUD operations)
@@ -20,7 +20,7 @@ src/main/java/com/mycompany/pert3_4ia01_51422270/
 │   └── MahasiswaController.java # Logika kontrol aplikasi
 ├── view/
 │   └── MahasiswaView.java       # Antarmuka pengguna (UI)
-└── Pert3_4IA01_51422270.java   # Main class
+└── Pert3_4IA01_51422399.java   # Main class
 ```
 
 ## 📦 Komponen Aplikasi
@@ -115,14 +115,14 @@ mvn clean compile
 
 5. **Jalankan Aplikasi**
 ```bash
-mvn exec:java@Pert3_4IA01_51422270
+mvn exec:java@Pert3_4IA01_51422399
 ```
 
 atau
 
 ```bash
 mvn package
-java -cp target/pert3_4IA01_51422270-1.0-SNAPSHOT.jar com.mycompany.pert3_4ia01_51422270.Pert3_4IA01_51422270
+java -cp target/pert3_4IA01_51422399-1.0-SNAPSHOT.jar com.mycompany.pert3_4ia01_51422399.Pert3_4IA01_51422399
 ```
 
 ## 📝 Fitur Utama
@@ -157,7 +157,7 @@ java -cp target/pert3_4IA01_51422270-1.0-SNAPSHOT.jar com.mycompany.pert3_4ia01_
 ```
 ===========================
 ID          : 1
-NPM         : 51422270
+NPM         : 51422399
 NAMA        : Rayi Na Ilham
 SEMESTER    : 4
 IPK         : 3.75
@@ -188,7 +188,7 @@ Proyek ini merupakan tugas perkuliahan dan bebas digunakan untuk tujuan pendidik
 ## 👨‍💻 Penulis
 
 - **Nama**: Rayi Na Ilham
-- **NIM**: 51422270
+- **NIM**: 51422399
 - **Kelas**: 4IA01
 
 ## 📧 Kontak
